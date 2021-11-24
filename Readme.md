@@ -32,9 +32,9 @@
 * [JtextField](https://github.com/GK-CPP/Java-And-Java-Swing/tree/master/Java%20Swing/src/JtextField)
 * [image](https://github.com/GK-CPP/Java-And-Java-Swing/tree/master/Java%20Swing/src/image) [Image used SlideShow in JLayout]
 
-============================================== </br>
-Name:     Gulam Kibria Chowdhury</br>
-Study:      CSE, NEUB</br>
-Address:  Sylhet, Bangladesh</br>
-mail: gkpalash101@gmail.com</br>
-============================================== </br>
+=============================================== <br> 
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
